@@ -1,0 +1,168 @@
+* {
+    background: #276678;
+}
+
+
+h1 {
+    font-family: 'Questrial', sans-serif;
+    font-size: 50px;
+    justify-content: center;
+    text-align: center;
+    color:  #d3e0ea;
+    text-shadow: 2px 0 0 black, -2px 0 0 black, 0 2px 0 black, 0 -2px 0 black, 1px 1px black, -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black;
+
+}
+.mainPlayer {
+    background-color:  #d3e0ea;
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+
+}
+
+
+.nextbutton{
+    font-family: 'Questrial', sans-serif;
+    border-radius: 9px 9px 9px 9px;
+        color:  #d3e0ea;
+     font-size: 35px;
+     position: flex;
+     background-color: #1687a7;
+     border-style: solid;
+    border-color: black;
+    text-shadow: 2px 0 0 black, -2px 0 0 black, 0 2px 0 black, 0 -2px 0 black, 1px 1px black, -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black;
+
+
+}
+
+.backbutton{
+    font-family: 'Questrial', sans-serif;
+    border-radius: 9px 9px 9px 9px;
+    color:  #d3e0ea;
+    font-size: 35px;
+    position: flex;
+    background-color: #1687a7;
+    border-style: solid;
+    border-color: black;
+    text-shadow: 2px 0 0 black, -2px 0 0 black, 0 2px 0 black, 0 -2px 0 black, 1px 1px black, -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black;
+
+
+}
+
+.nextbutton:focus {
+    font-family: 'Questrial', sans-serif;
+    border-radius: 9px 9px 9px 9px;
+    font-size: 35px;
+    position: flex;
+    background-color: #09586e;
+    border-style: solid;
+    border-color: black;
+    text-shadow: 2px 0 0 black, -2px 0 0 black, 0 2px 0 black, 0 -2px 0 black, 1px 1px black, -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black;
+
+}
+
+.playbutton:focus {
+    font-family: 'Questrial', sans-serif;
+    border-radius: 9px 9px 9px 9px;
+    color:  #d3e0ea;
+    font-size: 35px;
+    position: flex;
+    background-color: #09586e;
+    border-style: solid;
+    border-color: black;
+    text-shadow: 2px 0 0 black, -2px 0 0 black, 0 2px 0 black, 0 -2px 0 black, 1px 1px black, -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black;
+
+}
+
+.backbutton:focus {
+    font-family: 'Questrial', sans-serif;
+    border-radius: 9px 9px 9px 9px;
+    color:  #d3e0ea;
+    font-size: 35px;
+    position: flex;
+    background-color: #09586e;
+    border-style: solid;
+    border-color: black;
+    text-shadow: 2px 0 0 black, -2px 0 0 black, 0 2px 0 black, 0 -2px 0 black, 1px 1px black, -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black;
+
+}
+
+.playbutton{
+    font-family: 'Questrial', sans-serif;
+    border-radius: 9px 9px 9px 9px;
+    color:  #d3e0ea;
+    font-size: 35px;
+    position: flex;
+    background-color: #1687a7;
+    border-style: solid;
+    border-color: black;
+    text-shadow: 2px 0 0 black, -2px 0 0 black, 0 2px 0 black, 0 -2px 0 black, 1px 1px black, -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black;
+
+
+}
+
+.songplaying {
+    font-family: 'Questrial', sans-serif;
+    color:  #d3e0ea;
+    font-size: 30px;
+    background-color: #d3e0ea;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 300px;
+    height: 400px;
+    margin: 0 auto;
+    border-style: solid;
+    border-color: black;
+    color: #1687a7;
+
+}
+
+footer {
+    
+    line-height: 50px;
+    text-align: center;
+    font-family: 'Questrial', sans-serif;
+    position: fixed;
+    height: 50px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #d3e0ea;
+  text-shadow: 2px 0 0 black, -2px 0 0 black, 0 2px 0 black, 0 -2px 0 black, 1px 1px black, -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black;
+  color:  #d3e0ea;
+
+  border-color: black;
+  border-style: solid;
+    border-color: black;
+}
+
+footer:hover {
+    line-height: 50px;
+    text-align: center;
+    font-family: 'Questrial', sans-serif;
+    position: fixed;
+    height: 50px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #d3e0ea;
+  text-shadow: 2px 0 0 black, -2px 0 0 black, 0 2px 0 black, 0 -2px 0 black, 1px 1px black, -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black;
+  color:  #1687a7;
+
+  border-color: black;
+  border-style: solid;
+    border-color: black;
+
+}
+.divider{
+    width:5px;
+    height:auto;
+    display:inline-block;
+}

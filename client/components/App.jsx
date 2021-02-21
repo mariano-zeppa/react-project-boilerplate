@@ -1,8 +1,17 @@
 import React from 'react'
 
+import Player from './Player'
+
 const App = () => {
   return (
-    <h1>React development has begun!</h1>
+    <div >
+
+      <Player />
+
+      <footer>
+        Log In
+      </footer>
+    </div>
   )
 }
 
